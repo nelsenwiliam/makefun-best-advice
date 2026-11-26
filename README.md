@@ -1,8 +1,8 @@
 # The Best Advice I Ever Got
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-brightgreen.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![make.fun · u-pangg7-the-best-advice-i-ever-got-358cefb0](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![rank](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/nelsenwiliam/makefun-best-advice/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![reward](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/nelsenwiliam/makefun-best-advice/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
 
 Entry for the [make.fun bounty "The Best Advice I Ever Got"](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0) ($2, top 10 paid).
 
